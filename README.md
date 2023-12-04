@@ -1,2 +1,3 @@
-# bisection_method
-Simple Bisection Method Implementation using Python
+# Bisection Method
+
+Simple implementation of the Bisection Method using Python in a Jupyter notebook
